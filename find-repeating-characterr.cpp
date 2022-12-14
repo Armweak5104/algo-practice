@@ -18,3 +18,4 @@ int main(){
     i+=1;
   }
 }
+/* The logic exactly the same for finding the duplicate */
